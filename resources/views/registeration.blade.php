@@ -219,7 +219,7 @@
                                         </div>
                                         <div class="mb-4">
                                             <button type="submit" class="btn btn-primary">
-                                                <i class="fa fa-check opacity-50 me-1"></i> Register
+                                                <i class="fa fa-check opacity-50 me-1"></i> Submit
                                             </button>
                                         </div>
                                     </form>
